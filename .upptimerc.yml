@@ -4,19 +4,12 @@ repo: test-monitoring # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
+  - name: Secret Site 1
     url: $SECRET_SITE
+  - name: Secret Site 2
+    url: $SECRET_SITE_2
+  - name: Secret Site 3
+    url: $SECRET_SITE_3
   - name: TCP ping
     url: 1.1.1.1
 
@@ -32,8 +25,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+#     - title: GitHub
+#       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
