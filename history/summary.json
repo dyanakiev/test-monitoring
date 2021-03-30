@@ -5,36 +5,34 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site-1",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 764,
     "timeDay": 672,
     "timeWeek": 811,
     "timeMonth": 764,
     "timeYear": 764,
-    "dailyMinutesDown": {
-      "2021-03-13": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site 2",
     "url": "$SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site-2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1049,
-    "timeDay": 1069,
-    "timeWeek": 1059,
-    "timeMonth": 1049,
-    "timeYear": 1049,
+    "time": 1048,
+    "timeDay": 1063,
+    "timeWeek": 1058,
+    "timeMonth": 1048,
+    "timeYear": 1048,
     "dailyMinutesDown": {
       "2021-03-13": 9
     }
@@ -45,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site-3",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 528,
     "timeDay": 656,
     "timeWeek": 737,
     "timeMonth": 528,
     "timeYear": 528,
-    "dailyMinutesDown": {
-      "2021-03-13": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TCP ping",
@@ -65,18 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tcp-ping",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 58,
     "timeDay": 55,
     "timeWeek": 83,
     "timeMonth": 58,
     "timeYear": 58,
-    "dailyMinutesDown": {
-      "2021-03-13": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
