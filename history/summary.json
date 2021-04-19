@@ -40,7 +40,7 @@
     "url": "$SECRET_SITE_3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site-3",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 636,
     "timeDay": 689,
-    "timeWeek": 807,
+    "timeWeek": 806,
     "timeMonth": 732,
     "timeYear": 636,
     "dailyMinutesDown": {}
