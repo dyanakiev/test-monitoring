@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 797,
-    "timeDay": 744,
-    "timeWeek": 796,
-    "timeMonth": 816,
-    "timeYear": 797,
+    "time": 800,
+    "timeDay": 832,
+    "timeWeek": 825,
+    "timeMonth": 823,
+    "timeYear": 800,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 1037,
     "timeDay": 951,
     "timeWeek": 1017,
-    "timeMonth": 1034,
+    "timeMonth": 1035,
     "timeYear": 1037,
     "dailyMinutesDown": {}
   },
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 644,
-    "timeDay": 673,
-    "timeWeek": 793,
+    "timeDay": 653,
+    "timeWeek": 795,
     "timeMonth": 735,
     "timeYear": 644,
     "dailyMinutesDown": {}
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 90,
-    "timeWeek": 77,
-    "timeMonth": 82,
-    "timeYear": 71,
+    "time": 72,
+    "timeDay": 103,
+    "timeWeek": 83,
+    "timeMonth": 84,
+    "timeYear": 72,
     "dailyMinutesDown": {}
   }
 ]
