@@ -13,7 +13,7 @@
     "time": 810,
     "timeDay": 763,
     "timeWeek": 821,
-    "timeMonth": 790,
+    "timeMonth": 793,
     "timeYear": 810,
     "dailyMinutesDown": {}
   },
@@ -22,17 +22,17 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 947,
-    "timeDay": 868,
-    "timeWeek": 892,
+    "time": 948,
+    "timeDay": 875,
+    "timeWeek": 893,
     "timeMonth": 873,
-    "timeYear": 947,
+    "timeYear": 948,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 83,
     "timeDay": 54,
     "timeWeek": 78,
-    "timeMonth": 95,
+    "timeMonth": 96,
     "timeYear": 83,
     "dailyMinutesDown": {}
   }
