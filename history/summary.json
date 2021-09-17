@@ -22,7 +22,7 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 909,
     "timeDay": 887,
-    "timeWeek": 863,
+    "timeWeek": 865,
     "timeMonth": 875,
     "timeYear": 909,
     "dailyMinutesDown": {}
